@@ -1,0 +1,14 @@
+#iniciarSesion {
+	height: 450px;
+	text-shadow: .5px .5px #AAAAAA;
+	padding: 1em;
+	margin: 1em;
+	border-right: 1px solid black;
+}
+
+#registro {
+	height: 450px;
+	text-shadow: .5px .5px #AAAAAA;
+	padding: 1em;
+	margin: 1em;
+}
